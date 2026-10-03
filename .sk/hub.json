@@ -1,0 +1,69 @@
+{
+  "titulo": "pwa2",
+  "arquivo": "",
+  "itens": [
+    {
+      "path": "chat/index.html",
+      "nome": "AI Code Studio",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "comparador/index.html",
+      "nome": "Projeto Lab",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "editor/extrator.html",
+      "nome": "Extrator Jurídico — Maikon Caldeira OAB/MG 183712",
+      "desc": "",
+      "on": true,
+      "icone": "editor/icon-192.png"
+    },
+    {
+      "path": "editor/index.html",
+      "nome": "SK Code Editor",
+      "desc": "",
+      "on": true,
+      "icone": "editor/favicon.svg"
+    },
+    {
+      "path": "index.html",
+      "nome": "Suite Jurídica + IA",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    },
+    {
+      "path": "novo/index.html",
+      "nome": "SK Tools",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "outros/chat-isolado.html",
+      "nome": "AI Code Studio",
+      "desc": "",
+      "on": true,
+      "icone": "outros/icon-192.png"
+    },
+    {
+      "path": "outros/index.html",
+      "nome": "Cirurgião PWA - IDE & Central de Análise Modular",
+      "desc": "",
+      "on": true,
+      "icone": "outros/icon-192.png"
+    },
+    {
+      "path": "playground/index.html",
+      "nome": "SK Playground",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    }
+  ]
+}
