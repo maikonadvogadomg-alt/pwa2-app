@@ -1,10 +1,18 @@
-// service-worker.js — gerado pelo Mini SK em 03/10/2026, 02:20:26
+// service-worker.js — gerado pelo Mini SK em 03/10/2026, 13:26:55
 // Não precisa mexer: ele guarda sozinho o que o app usa.
-const PREFIXO = 'sk-novo-app-';
-const CACHE = PREFIXO + 'mury14g0';
+const PREFIXO = 'sk-pwa2-';
+const CACHE = PREFIXO + 'muslu8gs';
 // Lista feita automaticamente (para funcionar sem internet logo após instalar)
 const GUARDAR = [
   "./",
+  "./android/app/build.gradle",
+  "./android/app/src/main/AndroidManifest.xml",
+  "./android/app/src/main/java/app/minisk/shell/MainActivity.java",
+  "./android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+  "./android/build.gradle",
+  "./android/gradle.properties",
+  "./android/settings.gradle",
+  "./apk.config.json",
   "./chat/index.html",
   "./comparador/index.html",
   "./editor/assets/app.js",
@@ -17,6 +25,8 @@ const GUARDAR = [
   "./editor/opengraph.jpg",
   "./editor/sw.js",
   "./favicon.ico",
+  "./hub.html",
+  "./hub.webmanifest",
   "./icon-48.png",
   "./icon-72.png",
   "./icon-96.png",

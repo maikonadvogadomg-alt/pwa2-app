@@ -1,6 +1,6 @@
 {
   "titulo": "pwa2",
-  "arquivo": "",
+  "arquivo": "hub.html",
   "itens": [
     {
       "path": "chat/index.html",
@@ -65,5 +65,9 @@
       "on": true,
       "icone": ""
     }
-  ]
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
 }
